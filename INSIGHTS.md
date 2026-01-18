@@ -51,8 +51,8 @@ The talk reinforced my understanding that:
 
 ---
 
-## 📁 Related Files
-- [📄 Full Assignment PDF](documents/Asgm3-Acad-Writing.pdf)
+## Full Academic Report
+[Report in PDF](Asgm3.pdf)
 
 ---
 
